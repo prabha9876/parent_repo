@@ -179,7 +179,7 @@ xmlns="http://maven.apache.org/POM/4.0.0">
 
 <modules>
 
-    <module>config</module>
+   <!-- <module>config</module>-->
 
     <module>deploy</module>
 
